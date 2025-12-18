@@ -41,7 +41,7 @@ This application requires **FFmpeg** to process audio files. Since FFmpeg files 
 1. Download the FFmpeg build from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/).
 2. Extract the downloaded ZIP file.
 3. Inside this project folder, create a new folder named **`bin`**.
-4. Copy these three files into the `bin` folder:
+4. Copy these three files and all files into the `bin` folder:
    - `ffmpeg.exe`
    - `ffplay.exe`
    - `ffprobe.exe`
@@ -74,3 +74,4 @@ Once processing is complete, find your separated files here:
 ---
 
 © 2025 Sahan Tharuka. All Rights Reserved.
+
