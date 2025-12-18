@@ -12,7 +12,7 @@ A professional desktop application developed to separate vocals and music from a
 - **Local Processing:** Runs 100% offline on your computer.
 - **Format Support:** Supports MP3 and WAV files.
 
-## 📸 Screenshots
+
 
 ## 📸 Screenshots
 ![App Screenshot](Screenshot.png)
@@ -72,4 +72,5 @@ Once processing is complete, find your separated files here:
 - GitHub: [SahanST19](https://github.com/SahanST19)
 
 ---
+
 © 2025 Sahan Tharuka. All Rights Reserved.
